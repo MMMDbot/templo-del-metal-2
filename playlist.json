@@ -1,0 +1,15 @@
+{
+  "SchemaVersion": 1,
+  "Name": "Templo del Metal",
+  "DefaultSpeed": 0.345,
+  "Songs": [
+    {
+      "Title": "Numb (PulsarDj)",
+      "Artist": "Linkin Park",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://77118089758248",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
