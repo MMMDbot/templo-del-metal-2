@@ -1,15 +1,15 @@
 {
   "SchemaVersion": 1,
-  "Name": "Templo del Metal",
+  "Name": "Templo del Metal 2",
   "DefaultSpeed": 0.345,
   "Songs": [
     {
-      "Title": "Numb (PulsarDj)",
-      "Artist": "Linkin Park",
+      "Title": "Lay All Your Love On Me",
+      "Artist": "Helloween",
       "Genre": "Rock heavy metal",
       "ImageId": "rbxassetid://124321052489221",
-      "SoundId": "rbxassetid://77118089758248",
-      "Speed": 0.345,
+      "SoundId": "rbxassetid://109561020166149",
+      "Speed": 0.345000,
       "Start": 0,
       "Duration": ""
     },
